@@ -1,0 +1,18 @@
+{
+    "name": "ai.nreal.android.utilities",
+    "version": "0.0.1",
+    "displayName": "Unity Android Utilities",
+    "description": "In this package we provide some android utilities for unity.",
+    "unity": "2018.4",
+    "unityRelease": "11f1",
+    "dependencies": {
+    },
+    "keywords": [
+        "nreal",
+        "android"
+    ],
+    "author": {
+        "name": "Wang Zhijiang",
+        "email": "zjwang@nreal.ai"
+    }
+}
